@@ -2,8 +2,8 @@
 # Site
 
 title: Planejamento Estratégico Municipal
-url: "https://long-pig.cloudvent.net"
-baseurl: "https://vinicius-macario.github.io/pen/"
+url: "https://vinicius-macario.github.io/"
+baseurl: "pen/"
 google_analytics_key:
 show_full_navigation: true
 
