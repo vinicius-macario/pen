@@ -2,8 +2,8 @@
 # Site
 
 title: Planejamento Estratégico Municipal
-url: "https://vinicius-macario.github.io/"
-baseurl: "pen/"
+url: "https://vinicius-macario.github.io/pen/"
+baseurl: 
 google_analytics_key:
 show_full_navigation: true
 
