@@ -1,8 +1,6 @@
 ---
-title: Planejamento Estratégico Municipal
+title: EM CONSTRUÇÃO
 ---
-
-EM CONSTRUÇÃO
 
 Este é um site para reunir informações sobre planejamento estratégico em nível municipal.
 
